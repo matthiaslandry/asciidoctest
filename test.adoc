@@ -92,5 +92,7 @@ This is a link to the https://asciidoctor.org/docs/user-manual/[Asciidoctor User
 This is an attribute reference {quick-uri}[which links this text to the Asciidoctor Quick Reference Guide].
 
 asciimath:[a+b=c]
+
 latexmath:[d+e=f]
+
 stem:[g+h=i]
